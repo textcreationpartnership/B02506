@@ -1,0 +1,626 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The compleat bell-man. Being a pattern for all sorts of people to take notice of the most remarkable times and dayes in the year. Very usefull for to read and meditate upon at all times, both in sicknesse and in health. Published for the help of all those that desire to be godly in this life, and eternally happy in the life to come. / By H: Crouch.</title>
+            <author>Crouch, Humphrey, fl. 1635-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02506</idno>
+            <idno type="STC">Wing C7277BA</idno>
+            <idno type="STC">ESTC R175859</idno>
+            <idno type="EEBO-CITATION">52212003</idno>
+            <idno type="OCLC">ocm 52212003</idno>
+            <idno type="VID">175625</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02506)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175625)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2743:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The compleat bell-man. Being a pattern for all sorts of people to take notice of the most remarkable times and dayes in the year. Very usefull for to read and meditate upon at all times, both in sicknesse and in health. Published for the help of all those that desire to be godly in this life, and eternally happy in the life to come. / By H: Crouch.</title>
+                  <author>Crouch, Humphrey, fl. 1635-1671.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Newly printed for Francis Coles, at the Half-Boul in the old Bailey,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Title vignette.</note>
+                  <note>Imperfect: cropped with some loss of text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holidays --  England --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175625:1"/>
+            <pb facs="tcp:175625:1" rendition="simple:additions"/>
+            <p>THE Compleat <hi>Bell-Man.</hi>
+            </p>
+            <p>
+               <hi>Being</hi> A Pattern for all ſorts of People to tak<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> notice of the moſt remarkable Times and Dayes in the Year.</p>
+            <p>Very uſefull for to read and meditate upon at a Times, both in Sickneſſe and in Health.</p>
+            <p>Publiſhed for the help of all thoſe that deſire to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> goldly in this life, and eternally happy in the life to come</p>
+            <p>By <hi>H: Crouch.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of a town-crier</figDesc>
+               <head>A Compleat Bellman</head>
+            </figure>
+            <p>Newly Printed for FRANCIS COLES, at th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Half-Boul in the old Bailey.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:175625:2"/>
+            <head>A Table of all the Verſes contained in this Book.</head>
+            <list>
+               <item>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> For Chriſts Birth-day.</item>
+               <item>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> For St. Stephens day.</item>
+               <item>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> For St. Iohn the Evanga<g ref="char:EOLhyphen"/>liſt day.</item>
+               <item>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> For Innocents day</item>
+               <item>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> For the Circumciſion of Chriſt</item>
+               <item>6 For New years day</item>
+               <item>7 For Twelfth day</item>
+               <item>8 For the Converſion of St. Paul.</item>
+               <item>9 For the Purificacion of Mary.</item>
+               <item>10 For Vallentines day</item>
+               <item>11 For St. Mathias day.</item>
+               <item>12 For the Annunciacion of Mary.</item>
+               <item>13 For good Friday.</item>
+               <item>14 For Eaſter day</item>
+               <item>15 For St. Marks day</item>
+               <item>16 For Phillip and jacobs day, or <hi>May day</hi>
+               </item>
+               <item>17 For Aſcencion day</item>
+               <item>18 For Whitſunday</item>
+               <item>19 For Barnaby bright</item>
+               <item>20 For St. Iohn <hi>Baptiſt<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> day</item>
+               <item>21 For St. Peters day.</item>
+               <item>22 For St. Iames day</item>
+               <item>23 For St. Bartholmews day.</item>
+               <item>24 For St Mathews day</item>
+               <item>25 For St Michaels day</item>
+               <item>26 For St. Lukes day</item>
+               <item>27 For Simon and Judea day</item>
+               <item>28 For All-Saints day</item>
+               <item>29 For Gunpouder-Trea<g ref="char:EOLhyphen"/>ſon day, or 5 <hi>of Nov.</hi>
+               </item>
+               <item>30 For St. Andrews day.</item>
+               <item>31 For St. Thomas day</item>
+               <item>32 For St. Barnabas day.</item>
+               <item>33 For the S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bboth day</item>
+               <item>34 The Belmans Care</item>
+               <item>35 Gods Protection</item>
+               <item>36 Mans Mortallity</item>
+               <item>37 Mans Reſurrection</item>
+               <item>38 Againſt Fear of Inva<g ref="char:EOLhyphen"/>ſion</item>
+               <item>39 On the day of Doom.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="occasional_poems">
+            <pb facs="tcp:175625:2"/>
+            <head>THE Compleat <hi>Bell-Man. Being</hi> A Pattern for all ſorts of People to tak<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> notice of the moſt remarkable Times and Dayes in the Year.</head>
+            <div n="1" type="part">
+               <head>For Chriſts Birth-day.</head>
+               <l>THis is the Day, the joyfull Day indeed</l>
+               <l>Which God foretold, that the womans Seed</l>
+               <l>When Adam by his wife was then miſled,</l>
+               <l>By Satans meanes, ſhould break the Serpents head,</l>
+               <l>Chriſt came from Heaven upon the Earth to dwell</l>
+               <l>To die for us, and free our ſoules from Hell;</l>
+               <l>O bleſſed be his holy name therefore,</l>
+               <l>That gives a preſent Salve for every Sore.</l>
+            </div>
+            <div n="2" type="part">
+               <head>For St: Stephens day.</head>
+               <l>SAint Stephen on this day was ſton'd to death,</l>
+               <l>By misbeleiving Iewes he loſt his breath,</l>
+               <l>For preaching Chriſt to them; which they withſtood</l>
+               <l>Yet Stephen ſeald his Faith even with his blood.</l>
+               <l>Lord ſtrengthen us againſt the day of tryall,</l>
+               <l>That we againſt our Faith make no denyall.</l>
+            </div>
+            <div n="3" type="part">
+               <pb facs="tcp:175625:3"/>
+               <head>3 For St: Iohns day, the Evangeliſt.</head>
+               <l>SAint Iohn that holy Evangeliſt divine,</l>
+               <l>Whoſe Goſpel over all the world doth ſhine,</l>
+               <l>Converted Heathens, was Chriſts boſom freind,</l>
+               <l>And preached pardon to us that offend,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n leu of all, there is requir'd but this</l>
+               <l>To love and fear the Lord of joy and blis.</l>
+            </div>
+            <div n="4" type="part">
+               <head>4 For Innocents Day.</head>
+               <l>THis was a bloody, dark, and diſmall day,</l>
+               <l>When Herod did ſo many Children ſlay,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntending then our Saviour to have ſlain,</l>
+               <l>For feare leſt he upon his Throne ſhould raign,</l>
+               <l>Yet divine providence did guard him ſo</l>
+               <l>His time not come, that he eſcapt his fo;</l>
+               <l>Gods providence (you ſee) is for us all,</l>
+               <l>His tru Elect ſhall ſtand, the reſt ſhall fall.</l>
+            </div>
+            <div n="5" type="part">
+               <head>5 For the Circumciſion of Chriſt, or New-years day.</head>
+               <l>OVr Saviour Chriſt came to fulfill the Law,</l>
+               <l>As all the Prophets in old time foreſaw,</l>
+               <l>And as the Evangeliſts themſelves doe ſay</l>
+               <l>Hée circumciſed was on the Eight day.</l>
+               <l>Lord circumciſe our hearts, and kéep us ſtill</l>
+               <l>In thy true fear obedient to thy will.</l>
+            </div>
+            <div n="6" type="part">
+               <pb facs="tcp:175625:3"/>
+               <head>6 Another for the ſame day.</head>
+               <l>THis is the firſt day of the year,</l>
+               <l>Begin it then in Gods true fear,</l>
+               <l>And if the old year bad was ſpent,</l>
+               <l>Begin the new well, and repent,</l>
+               <l>Becauſe we cannot tell how ſoon</l>
+               <l>Our Morning may be turned to Noon,</l>
+               <l>Our Noon be turned into Night,</l>
+               <l>Our Soules from Bodies take their flight.</l>
+            </div>
+            <div n="7" type="part">
+               <head>7 For twelfth day.</head>
+               <l>GOd by a Star directed the wiſe men</l>
+               <l>(As the Evangeliſts declare by their pen,</l>
+               <l>To find out Chriſt the Saviour of mankind:</l>
+               <l>They found and ſaw him; Wée by Faith him find:</l>
+               <l>They find by Faith who after him do thirſt,</l>
+               <l>Hée found the loſt ſheep, ſo he found us firſt</l>
+            </div>
+            <div n="8" type="part">
+               <head>8 For the Converſion of St: <hi>Paul.</hi>
+               </head>
+               <l>THe admirable Converſion of St: <hi>Paul</hi>
+               </l>
+               <l>Séemes wonderfull and ſtrange unto us all:</l>
+               <l>But thoſe that do unto the Lord belong</l>
+               <l>Hée'l bring them home, the wicked from among,</l>
+               <l>Gifts of the ſpirit, God to him had given</l>
+               <l>And now remaines a bleſſed Saint in Heaven.</l>
+            </div>
+            <div n="9" type="part">
+               <pb facs="tcp:175625:4"/>
+               <head>9 For the Purification of Mary or C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndlemas day</head>
+               <l>THe Virgin Mary never did refuſe</l>
+               <l>The Order and the Cuſtom of the Iewes</l>
+               <l>For when the time of Purifying came,</l>
+               <l>Shée willing was and yéelded to the ſame;</l>
+               <l>Lord purifie our corrupt hearts within,</l>
+               <l>And clenſe our ſoules from ſoule-deſtroying ſin.</l>
+            </div>
+            <div n="10" type="part">
+               <head>10 For Vallentines Day.</head>
+               <l>YOung Men provide you fine new Gloves,</l>
+               <l>To give your Vallentines and Loves.</l>
+               <l>Ariſe, Ariſe; get up I ſay,</l>
+               <l>For this is merry Vallentines day,</l>
+               <l>Goe call up <hi>Mary, Ioane,</hi> and <hi>Ioyce,</hi>
+               </l>
+               <l>And be you conſtant in your choyſe,</l>
+            </div>
+            <div n="11" type="part">
+               <head>11 For St Mathias Day.</head>
+               <l>BLeſſed Mathias, hée was choſe in place</l>
+               <l>Of <hi>Iudas</hi> that did fall away from grace,</l>
+               <l>O tis a fearfull thing to fall from God,</l>
+               <l>To ly for ever underneath his Rod,</l>
+               <l>To fall away and ſo receive our doom,</l>
+               <l>And have another taken in our room.</l>
+            </div>
+            <div n="12" type="part">
+               <pb facs="tcp:175625:4"/>
+               <head>12 For the Salutacion of Mary, on <hi>March</hi> 25</head>
+               <l>HAil Mary, full of grace, the Angell ſayd,</l>
+               <l>The God of Hoſts is with thee, Holy Mayd,</l>
+               <l>Bleſſed above all other women-kind,</l>
+               <l>Such favour from the Higheſt thou ſhalt find,</l>
+               <l>The Holy-ghoſt ſhall over-ſhadow thee,</l>
+               <l>A Mayd ſhall bear a Son, that Son ſhall be</l>
+               <l>The Saviour of the world: praiſe yea the Lord</l>
+               <l>Who ſuch a matchleſſe mercy doth afford.</l>
+            </div>
+            <div n="13" type="part">
+               <head>13 For good Friday</head>
+               <l>THis is the Day that we good Friday call,</l>
+               <l>This is the Day Chriſt ſufferd for us all,</l>
+               <l>This is the Day Gods wrath was ſatisfide,</l>
+               <l>This is the Day weak Man was iuſtifide,</l>
+               <l>This is the Day Chriſts love to us was ſhown,</l>
+               <l>This is the Day the Devil was overthrown,</l>
+               <l>For which great love of his, let's thankfull bee,</l>
+               <l>That did from Sathans bondage ſet us free.</l>
+            </div>
+            <div n="14" type="part">
+               <pb facs="tcp:175625:5"/>
+               <head>14 For Eaſter Day.</head>
+               <l>OVr Chriſt is riſen from the Dead,</l>
+               <l>And opened the gate of Life,</l>
+               <l>Man redeem'd, the Devil fled,</l>
+               <l>Gods wrath appeaſd, Chriſt ends the ſtrife,</l>
+               <l>And for which unſpeakable Love,</l>
+               <l>Let's evermore tru thankfull prove.</l>
+            </div>
+            <div n="15" type="part">
+               <head>15 For Saint Marks Day,</head>
+               <l>SAint <hi>Mark</hi> Gods holy Church inſtructed hath</l>
+               <l>So worthily and heavenly in the Faith,</l>
+               <l>And made the path way of our ſoules ſo even,</l>
+               <l>Wée cannot lightly miſſe the way to heaven,</l>
+               <l>Vnleſſe we to our ſoules be ſo unkind</l>
+               <l>For to bée blown away by every wind.</l>
+            </div>
+            <div n="16" type="part">
+               <head>16 For Phillip and Iacobs day or May-day.</head>
+               <l>YOung Men and Mayds do now prepare</l>
+               <l>Abroad to goe to take the Ayre,</l>
+               <l>To gather <hi>May</hi> and many a thing</l>
+               <l>Thats brought forth by the pleſant Spring</l>
+               <l>Together then they merry bee,</l>
+               <l>And wiſh <hi>May-day</hi> as long as three.</l>
+            </div>
+            <div n="17" type="part">
+               <pb facs="tcp:175625:5"/>
+               <head>17 For Aſcencion Day.</head>
+               <l>CHriſt is aſcended up to Heaven,</l>
+               <l>And rich gifts to men hath given,</l>
+               <l>As we are members, he our head,</l>
+               <l>So we ſhall riſe when we are dead,</l>
+               <l>And reſt with him eternally</l>
+               <l>Where wee ſhall live and never dy.</l>
+            </div>
+            <div n="18" type="part">
+               <head>18 For Whit-Sunday.</head>
+               <l>GOd ſent on his Apoſtles his bleſt ſpirit</l>
+               <l>Of his own goodneſſe, not their own merit,</l>
+               <l>Even ſo Lord give us all thy ſpirit of grace</l>
+               <l>And from our ſinns give our poor ſoules releaſe<g ref="char:punc">▪</g>
+               </l>
+               <l>That they to us may never be a terror,</l>
+               <l>And kéep us ever from the ſpirit of error.</l>
+            </div>
+            <div n="19" type="part">
+               <head>19 For Barnaby bright.</head>
+               <l>THis day wee call <hi>Barnaby</hi> bright</l>
+               <l>The longeſt day and ſhorteſt night,</l>
+               <l>The Summer now wee count half ſpent,</l>
+               <l>VVhich young Folk ſpend in merryment,</l>
+               <l>In pretty Sports and harmleſſe Play,</l>
+               <l>Wiſhing that Summer ſtill would ſtay.</l>
+            </div>
+            <div n="20" type="part">
+               <pb facs="tcp:175625:6"/>
+               <head>20 For St. Iohn Baptiſts day.</head>
+               <l>AS on this day Iohn Baptiſt loſt his life,</l>
+               <l>When <hi>Herod</hi> married with his Brothers wife</l>
+               <l>For telling <hi>Herod</hi> that he was miſled,</l>
+               <l>King <hi>Herods</hi> Daughter ſoon daunc'd off his head;</l>
+               <l>Tis always ſo when Tyrants bear the ſway;</l>
+               <l>For ſpeaking Truth, good men are made away.</l>
+            </div>
+            <div n="21" type="part">
+               <head>21 For St. Peters Day</head>
+               <l>
+                  <hi>PEter</hi> his Lord and Maſter did deny,</l>
+               <l>But when his Lord on him did caſt an ey,</l>
+               <l>He wept moſt bitterly, his tears did ſhow</l>
+               <l>His troubled heart was full of grief and wo,</l>
+               <l>Lord caſt thine ey of Mercy on us all,</l>
+               <l>And lend a hand when wée begin to fall.</l>
+            </div>
+            <div n="22" type="part">
+               <head>22 For St. Iames Day.</head>
+               <l>SAint Iames his heavenly Doctrine divine.</l>
+               <l>Among the Chriſtians evermore will ſhine<g ref="char:punc">▪</g>
+               </l>
+               <l>As God inſtructed him, ſo he doth all</l>
+               <l>To fear his Name, and ever on him call,</l>
+               <l>His ſweet Epiſtles manifeſt full well</l>
+               <l>His Love to us, to ſhun the paths of Hell.</l>
+            </div>
+            <div n="23" type="part">
+               <pb facs="tcp:175625:6"/>
+               <head>23 For St. Bartholomews day.</head>
+               <l>SAint Bartholmew did beleiv, &amp; likewiſe preach</l>
+               <l>And did the Faith of Chriſt to Gentils teach,</l>
+               <l>Converting many Heathens to the truth,</l>
+               <l>A follower of the Goſpel from his youth;</l>
+               <l>Let us by his example do the ſame,</l>
+               <l>And let Gods glory ever be our aym.</l>
+            </div>
+            <div n="24" type="part">
+               <head>24 For St. Mathews day.</head>
+               <l>CHriſt from y<hi rend="sup">e</hi> receit of Cuſtom <hi>Mathew</hi> did call,</l>
+               <l>And he forſook both Freinds, &amp; wealth, and all:</l>
+               <l>O happy <hi>Mathew!</hi> couldſt ſo rule thy heart,</l>
+               <l>To leave the world, and chooſe the better part,</l>
+               <l>O follow <hi>Mathew</hi> in a Courſe ſo even.</l>
+               <l>For why, his footſteps brings you all to Heaven</l>
+            </div>
+            <div n="25" type="part">
+               <head>25 For Michael the Archangels day.</head>
+               <l>
+                  <hi>MIchael</hi> y<hi rend="sup">e</hi> Archangel (who was Chriſt) no leſſe</l>
+               <l>Brought Satan and his Angels to diſtreſſe:</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thy heavenly Angels guard us ſtill,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Satan may not work us any ill,</l>
+               <l>P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>otect thy Church, O heavenly Lord moſt high,</l>
+               <l>It may not ſuffer under Tyranny</l>
+            </div>
+            <div n="26" type="part">
+               <pb facs="tcp:175625:7"/>
+               <head>26 For Saint Lukes day</head>
+               <l>L<g ref="char:V">Ʋ</g>ke was a Phyſician, whom Chriſt did call,</l>
+               <l>Who left his Parents and the World, and all,</l>
+               <l>To follow Chriſt againſt the worlds controul,</l>
+               <l>And he became a Phyſician for the Soul,</l>
+               <l>Lord grant the phyſick of his Doctrin may</l>
+               <l>Cure all our ſinfull Soules that walk aſtray.</l>
+            </div>
+            <div n="27" type="part">
+               <head>27 For Simon and Iudes day.</head>
+               <l>SImon and Iude united both in love,</l>
+               <l>By the holy, heav'nly Spirit of God above,</l>
+               <l>So all Gods Saints combine themſelves in one</l>
+               <l>Chriſt Ieſus our bleſt Lord the Corner ſtone,</l>
+               <l>Lord grant thy Church may hold together ſo</l>
+               <l>That Sciſmaticks may never work our wo.</l>
+            </div>
+            <div n="28" type="part">
+               <head>28 For all Saints day.</head>
+               <l>ALl Saints in Heaven agree and well accord,</l>
+               <l>The Church triumphant with our heavenly Lord</l>
+               <l>But the Church Millitant upon the Earth</l>
+               <l>Hath ever been at Diſcord from its Birth</l>
+               <l>The Reaſon is (if humane Witt can tell)</l>
+               <l>That Heaven cannot well agree with Hell;</l>
+               <l>If it be ſo, tis Satans Pollicy</l>
+               <l>For to diſturb Gods Church with Hereſy.</l>
+            </div>
+            <div n="29" type="part">
+               <pb facs="tcp:175625:7"/>
+               <head>29 For the fift of November, or <hi>Gunpouder Treaſon.</hi>
+               </head>
+               <l>THat Damned Helliſh Pouder-plot</l>
+               <l>Layd under ground ſo deep,</l>
+               <l>Becauſe it ſhould not be forgot,</l>
+               <l>That day wee ſtill do keep:</l>
+               <l>O let us all with one accord</l>
+               <l>Give praiſe unto our heavenly Lord</l>
+            </div>
+            <div n="30" type="part">
+               <head>30 For St: Andrewes Day</head>
+               <l>SAint <hi>Andrew</hi> ſuffered on the Croſſe,</l>
+               <l>And did not think his life a loſſe</l>
+               <l>To gain eternall life thereby,</l>
+               <l>Knowing that Chriſt on Croſſe did dy</l>
+               <l>To ſave both him, and you, and mée,</l>
+               <l>For which great love let's thankful thée</l>
+            </div>
+            <div n="31" type="part">
+               <head>31 For Saint <hi>Thomas</hi> Day,</head>
+               <l>SAint <hi>Thomas</hi> for Christs Death did greive<g ref="char:punc">▪</g>
+               </l>
+               <l>That Chriſt was roſe did not beleive</l>
+               <l>Till he his Wounds did feel and ſee,</l>
+               <l>Thou art my Lord, my God, ſayd hee<g ref="char:punc">▪</g>
+               </l>
+               <l>How blest are they that him ne'er ſaw</l>
+               <l>And yet beleive, and him obay.</l>
+            </div>
+            <div n="32" type="part">
+               <pb facs="tcp:175625:8"/>
+               <head>32 For St. Barnabas day.</head>
+               <l>THis do we call holy Saint Barnabas day,</l>
+               <l>Let all Men to our heavenly Father pray</l>
+               <l>To give unto us ſuch like gifts of grace,</l>
+               <l>That we in heaven may have a dwelling place,</l>
+               <l>Let each man labour ever to do well,</l>
+               <l>And pull his neighbour from the gates of Hell.</l>
+            </div>
+            <div n="33" type="part">
+               <head>33 For the Sabboth.</head>
+               <l>SIx dayes is given you for to labour in</l>
+               <l>So mercifull and kind the Lord hath been</l>
+               <l>Of ſeven dayes, himſelf doth take but one,</l>
+               <l>O rob him not of that to leav him none:</l>
+               <l>Whoever will not on the Sabboth reſt,</l>
+               <l>Shall never reſt with him among the bleſt.</l>
+            </div>
+            <div n="34" type="part">
+               <head>34 The <hi>Bel-Mans</hi> Care</head>
+               <l>VVEe walk abroad in Froſt and Snow,</l>
+               <l>And many a weary ſtep do go</l>
+               <l>To keep your houſes from all harm,</l>
+               <l>While you ly in your Beds full warm;</l>
+               <l>Be carefull of your Fire and Light:</l>
+               <l>And ſo God bleſſe you Day and Night</l>
+            </div>
+            <div n="35" type="part">
+               <pb facs="tcp:175625:8"/>
+               <head>35 Gods Protection</head>
+               <l>EXcept the Lord our Citty guard</l>
+               <l>In vain is all our watch and ward,</l>
+               <l>For Fire and Sword may you conſume,</l>
+               <l>Then on our Care do not preſume,</l>
+               <l>Both Night and Day Lord keep you all</l>
+               <l>By ſudden death you may not fall</l>
+            </div>
+            <div n="36" type="part">
+               <head>36 On mans Mortallity</head>
+               <l>
+                  <hi>O</hi> Serve the Lord with all your power</l>
+               <l>For here you have no certain hour:</l>
+               <l>Remember (man) when thou cam'ſt here</l>
+               <l>How naked, poor, thou didſt appear;</l>
+               <l>And that whatever now thou have,</l>
+               <l>Thou muſt return ſo to thy Grave</l>
+            </div>
+            <div n="37" type="part">
+               <head>37 On Mans <hi>Reſurrection</hi>
+               </head>
+               <l>THat Man muſt dy wee all do know,</l>
+               <l>A death to God for Sin wee ow,</l>
+               <l>O happy man that makes his peace</l>
+               <l>Before his mortall life doth ceaſe;</l>
+               <l>For as the Tree (wee know) doth fall.</l>
+               <l>So riſe again wee know it ſhall</l>
+            </div>
+            <div n="38" type="part">
+               <pb facs="tcp:175625:9"/>
+               <head>38 Againſt fear of Invaſion</head>
+               <l>HEe that doth truly truſt in God,</l>
+               <l>Needs never fear nor Fire nor Sword,</l>
+               <l>His fear of God, and Conſcience clear,</l>
+               <l>Remooveth all his Cauſe of fear:</l>
+               <l>Though Mountains into Seas were caſt</l>
+               <l>His Faith is firm, his Fear is paſt</l>
+            </div>
+            <div n="39" type="part">
+               <head>39 Vpon the day of Doom</head>
+               <l>VVHen Earth of Earth ſhall turn to Earth</l>
+               <l>That was but Earth even from its Birt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Then Earth from Earth ſhall riſe again</l>
+               <l>To endleſſe joy <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> endleſſe pain,</l>
+               <l>Let Earth then <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>e and pleaſe his Maker</l>
+               <l>That Earth of Heaven may be pertaker.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175625:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
